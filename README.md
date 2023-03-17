@@ -9,7 +9,11 @@ I have posted some pics in this eevblog thread:
 
 https://www.eevblog.com/forum/repair/keithley-616-electrometer-input-stage-replacement/
 
-The schematic is very simple, C5 R6 need to be tuned manually:
+The schematic is very simple, this part (PC361 in the box below):
+
+![616_Buf](https://user-images.githubusercontent.com/50676392/225948453-17ec0acf-9ab4-45ff-bf26-65b1070dc738.PNG)
+
+will be replaced by this, C5 R6 need to be tuned manually:
 
 ![616_Buf_v2](https://user-images.githubusercontent.com/50676392/225946736-802ddfa8-8f0e-48a7-9a9d-3c8a9972d0b8.PNG)
 
