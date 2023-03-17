@@ -1,8 +1,8 @@
 # Keithley_616
 Modification to Keithley 616 input buffer:
 My keithkey 616 had the input mosfet Q101 broken,
-I lately was not hapy with it's performance, current leakage was 0.3pA, zero was drifty.
-So My ideas was to replace the input circuitry with a modern opamp, reading around the
+I lately was not happy with it's performance, current leakage was 0.3pA, zero was drifty.
+So my idea was to replace the input circuitry with a modern opamp, reading around the
 perfect candidate was the LMC6081, a low leakage mosfet opamp.
 In order to replace the input buffer, the zero circuit need to be reimplemented.
 I have posted some pics in this eevblog thread:
