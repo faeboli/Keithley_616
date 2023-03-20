@@ -15,8 +15,8 @@ The schematic is very simple, this part (PC361 in the box below):
 
 will be replaced by this, C5 R6 need to be tuned manually:
 
-![616_Buf_v2](https://user-images.githubusercontent.com/50676392/225946736-802ddfa8-8f0e-48a7-9a9d-3c8a9972d0b8.PNG)
+![image](https://user-images.githubusercontent.com/50676392/226322915-b127753d-e61b-4509-9898-5abb66d03c72.png)
 
 I have also created a PCB project:
 
-![616_Buf_v2_pcb](https://user-images.githubusercontent.com/50676392/225947069-b765f771-6c40-4c57-a0dc-cb2d45b10486.PNG)
+![image](https://user-images.githubusercontent.com/50676392/226322805-dd7ab08d-3f4e-4727-a882-326e89a26b4c.png)
