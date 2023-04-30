@@ -1091,7 +1091,7 @@
     (property "Reference" "C5" (id 0) (at 106.299 107.1153 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100p" (id 1) (at 106.68 110.49 0)
+    (property "Value" "2n2" (id 1) (at 106.68 110.49 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_THT:C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4" (id 2) (at 110.1852 104.14 0)
@@ -1353,7 +1353,7 @@
     (uuid db5b56b9-06f3-404f-8fa6-362cc11df101)
     (property "Reference" "R3" (id 0) (at 103.7758 91.44 90))
     (property "Value" "1Meg" (id 1) (at 101.2389 91.44 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 97.282 91.44 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 97.282 91.44 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 99.06 91.44 0)
@@ -1406,7 +1406,7 @@
     (uuid f47ce17c-2abe-4732-b8e7-22bf01b34678)
     (property "Reference" "R5" (id 0) (at 93.98 103.2342 90))
     (property "Value" "100k" (id 1) (at 93.98 105.7711 90))
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 93.98 109.728 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 93.98 109.728 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 107.95 0)
@@ -1434,7 +1434,7 @@
       (reference "C4") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/611ad362-6165-410e-8df3-13614d1f68bc"
-      (reference "C5") (unit 1) (value "100p") (footprint "Capacitor_THT:C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4")
+      (reference "C5") (unit 1) (value "2n2") (footprint "Capacitor_THT:C_Rect_L10.0mm_W2.5mm_P7.50mm_MKS4")
     )
     (path "/ec740f14-2cfa-4d79-8b4e-41b6ee4652f8"
       (reference "C6") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -1458,13 +1458,13 @@
       (reference "R2") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/db5b56b9-06f3-404f-8fa6-362cc11df101"
-      (reference "R3") (unit 1) (value "1Meg") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R3") (unit 1) (value "1Meg") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/c8543a70-1a0f-43ab-85cd-8e2247110967"
       (reference "R4") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/f47ce17c-2abe-4732-b8e7-22bf01b34678"
-      (reference "R5") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+      (reference "R5") (unit 1) (value "100k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/2a35d0b6-1dc9-4edb-b02c-50ba04103410"
       (reference "R6") (unit 1) (value "22k") (footprint "Resistor_SMD:R_0805_2012Metric")
