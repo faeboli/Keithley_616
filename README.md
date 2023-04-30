@@ -19,4 +19,4 @@ will be replaced by this, C5 R6 need to be tuned manually:
 
 I have also created a PCB project:
 
-![image](https://user-images.githubusercontent.com/50676392/226322805-dd7ab08d-3f4e-4727-a882-326e89a26b4c.png)
+![616_Buf_Pcb](https://user-images.githubusercontent.com/50676392/235374712-fbfd2a8d-37c3-4556-ad95-46c364081130.PNG)
